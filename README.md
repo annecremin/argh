@@ -3,7 +3,7 @@ Bodges with R
 
 <p><a href="https://annecremin.github.io/argh/GTPjourneys.html">https://annecremin.github.io/argh/GTPjourneys.html</a></p>
 <p><a href="https://annecremin.github.io/argh/EMjourneys.html">https://annecremin.github.io/argh/EMjourneys.html</a></p>
-<p><a href="https://annecremin.github.io/argh/EMjourneys2plusQ1x6.html">https://annecremin.github.io/argh/EMjourneys2plusQ1x6.html</a></p>
+<p><a href="https://annecremin.github.io/argh/EMjourneysQ12plusx6.html">https://annecremin.github.io/argh/EMjourneysQ12plusx6.html</a></p>
 <p><a href="https://annecremin.github.io/argh/GTPpagetypejourneys.html">https://annecremin.github.io/argh/GTPpagetypejourneys.html</a></p>
 <p><a href="https://annecremin.github.io/argh/GTPpagetypejourneysallarticles.html">https://annecremin.github.io/argh/GTPpagetypejourneysallarticles.html</a></p>
 <p><a href="https://annecremin.github.io/argh/GTPnetwork.html">https://annecremin.github.io/argh/GTPnetwork.html</a></p>
